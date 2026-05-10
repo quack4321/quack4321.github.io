@@ -28,5 +28,5 @@ Normally, one would use Forced subtitles for the primary track and enable Englis
 * *If your player doesn't support secondary tracks or your video files lack the Signs & Songs subtitles:* Download the Merged Subtitles file as your single, primary track.
 
 **2. Load the subtitles:**
-* **Auto-Load:** Place the subtitle file(s) in the same folder as your video file(s). Make sure they have the exact same name (e.g., `Attack on Titan S01E01 (01).mkv` and `Attack on Titan S01E01 (01).srt`). Most modern media players will automatically load them this way.
+* **Auto-Load:** Place the subtitle files in the same folder as your video files. Make sure they have the exact same name (e.g., `Attack on Titan S01E01 (01).mkv` and `Attack on Titan S01E01 (01).srt`). Most modern media players will automatically load them this way.
 * **Manual Load:** If your media player doesn't load them automatically, simply drag and drop the file directly onto the playing video window, or select it manually from your player's "Subtitles" menu.
