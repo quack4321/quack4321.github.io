@@ -1,7 +1,7 @@
 # Installing Dusk on iOS via SideStore
 
 ## Prerequisites
-- Computer (Mac or PC)
+- Computer
 - iPhone connected via USB
 - Dusk IPA file (download the latest `Dusk-vX.X.X-ios-arm64.ipa` from the [releases page](https://github.com/TwilitRealm/dusk/releases))
 - Game disc ROM file - `GZ2E01` (Gamecube USA) or `GZ2PE01` (Gamecube PAL)
