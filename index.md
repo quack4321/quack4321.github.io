@@ -1,3 +1,3 @@
-[Dusk iOS Install Guide](quack4321.github.io/dusk-guide)
+[Dusk iOS Install Guide](/dusk-guide/)
 
 ![cats](cats.jpg)
