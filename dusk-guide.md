@@ -18,7 +18,7 @@
 - Toggle it on and restart when prompted
 
 ## 3. Connect to SideStore VPN
-- Open the **WireGuard** app on your iPhone
+- Install and open the **WireGuard** app on your iPhone
 - Turn on the **SideStore** VPN connection
 *(Note: SideStore requires this VPN to be active whenever you install or refresh apps)*
 
