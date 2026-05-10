@@ -4,8 +4,8 @@
 These links contain ONLY subtitle text files. They do NOT contain any copyrighted video or audio.
 
 ## Download Links
-* **English CC:** [https://pastebin.com/tw2Hu6Sz](https://pastebin.com/tw2Hu6Sz)
-* **Merged Subtitles [Captions + Forced]:** [https://pastebin.com/1VCgWp7t](https://pastebin.com/1VCgWp7t)
+* [**English CC**](https://mega.nz/file/0vwDRbCQ#6Mbf6O72n787b-9aTgFOv375okuz4vTrnOToq2eJrTw)
+* [**Merged Subtitles (English CC + Forced Subtitles)**](https://mega.nz/file/B6xkiLRT#eBVgkYno5J-DQx7wABQ7aAJmgTQAhICGjxeVZfFT5m4)
 
 ## Description
 *English CC* is a subtitle set containing English captions for Attack on Titan (all 89 episodes).
