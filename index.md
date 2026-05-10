@@ -1,3 +1,3 @@
-[Dusk iOS Install Guide](dusk-guide.html)
+[Dusk iOS Install Guide](dusk-guide.md)
 
 ![cats](cats.jpg)
