@@ -1,4 +1,4 @@
-<a href="ocarina-studio.html">Ocarina Studio</a>
+<a href="ocarina-studio">Ocarina Studio</a>
 
 [Attack on Titan Dubbed Subtitles Guide](aot-subs.md)
 
